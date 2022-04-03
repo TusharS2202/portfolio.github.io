@@ -1,12 +1,16 @@
 body {
   background-image: url("d.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  position: relative;
   color: white;
 }
 p {
   font-size: 40px;
-  width:1000px;
+  border-width:1000px;
   border: 8px solid red;
   padding: 50px;
   margin: auto;
